@@ -21,6 +21,8 @@ while True:
 
 Use  `python setup.py install`
 
+OR USE THE WHEEL IN RELEASES
+
 #### COMPILED IS ONLY FOR 32 BIT PYTHON.(windows 32 and 64 working)
 
 If you don't have visual studio installed , go to compiled folder and copy/paste files in :  Python38folder/Lib/site-packages
