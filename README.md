@@ -21,7 +21,7 @@ while True:
 
 Use  `python setup.py install`
 
-OR USE THE WHEEL IN RELEASES
+OR USE THE WHEEL IN RELEASES (ONLY PYTHON 3.8 FOR WIN32)
 
 #### COMPILED IS ONLY FOR 32 BIT PYTHON 3.8 (windows 32 and 64 working)
 
